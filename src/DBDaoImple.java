@@ -10,7 +10,6 @@ public class DBDaoImple implements DBDao {
 	@Override
 	public void select() {
 		// TODO Auto-generated method stub
-		
 	}
 
 }
